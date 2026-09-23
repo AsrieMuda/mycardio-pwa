@@ -1,1 +1,1 @@
-window.IHEART_CONFIG = { apiUrl: '', googleClientId: '', demoOnly: true };
+window.IHEART_CONFIG = { apiUrl: 'https://script.google.com/macros/s/AKfycbyl12_Kzwv3ZeRndb3OatloBZbXljcGJrmaI3nL6thEav2vXvuhGvdWA99QG16JrqWCBg/exec', googleClientId: '', demoOnly: true, sheetDemo: true };
